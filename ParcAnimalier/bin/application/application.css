@@ -1,0 +1,13 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#AnchorPane {
+	-fx-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu5FPiArrU8Wu091G888klT06-TCU4pG6kgA&usqp=CAU");
+}
+
+#trouver {
+	-fx-background-color: #ef0294;
+}
+
+.button  {
+	-fx-background-color: blue;
+}
+
